@@ -7,7 +7,7 @@
 
 
 
-   <button id="btn"></button>
+   <button id="btn" onclick=>Show Fruit</button>
 </head>
 <body>
 <script>function me () {
